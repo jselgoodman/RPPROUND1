@@ -1,0 +1,157 @@
+[
+    {
+        "name" : "Bread",
+        "rarity" : "Common",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "Sweet",
+        "westComplement" : "Salty",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Butter",
+        "rarity" : "Common",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "Savory",
+        "southComplement" : "Salty",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Cheese",
+        "rarity" : "Common",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "Savory",
+        "westComplement" : "Spicy",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Chicken",
+        "rarity" : "Uncommon",
+        "northFlavor" : "Savory",
+        "northComplement" : "Salty",
+        "westFlavor" : "Savory",
+        "westComplement" : "Spicy",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Corn",
+        "rarity" : "Common",
+        "northFlavor" : "Sweet",
+        "northComplement" : "Salty",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Egg",
+        "rarity" : "Common",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "Bitter",
+        "eastComplement" : "Salty"
+    },
+
+    {
+        "name" : "Mushroom",
+        "rarity" : "Uncommon",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "Salty",
+        "westComplement" : "Spicy",
+        "southFlavor" : "Savory",
+        "southComplement" : "Salty",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Pepper",
+        "rarity" : "Common",
+        "northFlavor" : "Spicy",
+        "northComplement" : "Bitter",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Salad",
+        "rarity" : "Common",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "Bitter",
+        "southComplement" : "Savory",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    },
+
+    {
+        "name" : "Salt",
+        "rarity" : "Common",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "x",
+        "southComplement" : "x",
+        "eastFlavor" : "Salty",
+        "eastComplement" : "Savory"
+    },
+
+    {
+        "name" : "Soup",
+        "rarity" : "Uncommon",
+        "northFlavor" : "x",
+        "northComplement" : "x",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "Savory",
+        "southComplement" : "Sweet",
+        "eastFlavor" : "Savory",
+        "eastComplement" : "Salty"
+    },
+
+    {
+        "name" : "Spaghetti",
+        "rarity" : "Uncommon",
+        "northFlavor" : "Salty",
+        "northComplement" : "Spicy",
+        "westFlavor" : "x",
+        "westComplement" : "x",
+        "southFlavor" : "Savory",
+        "southComplement" : "Spicy",
+        "eastFlavor" : "x",
+        "eastComplement" : "x"
+    }
+]
